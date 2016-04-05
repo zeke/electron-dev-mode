@@ -1,5 +1,5 @@
 {
-  "name": "electron-dev-mode",
+  "name": "electron-env",
   "version": "1.0.0",
   "description": "A little electron helper for differentiating the development environment from the 'release' environent.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeke/electron-dev-mode.git"
+    "url": "git+https://github.com/zeke/electron-env.git"
   },
   "keywords": [
     "electron",
@@ -19,9 +19,9 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zeke/electron-dev-mode/issues"
+    "url": "https://github.com/zeke/electron-env/issues"
   },
-  "homepage": "https://github.com/zeke/electron-dev-mode#readme",
+  "homepage": "https://github.com/zeke/electron-env#readme",
   "devDependencies": {
     "sinon": "^1.17.3",
     "tap-spec": "^4.1.1",

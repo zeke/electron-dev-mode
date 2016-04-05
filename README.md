@@ -1,17 +1,17 @@
-# electron-dev-mode
+# electron-env
 
 A little electron helper for differentiating the development environment from the &#39;release&#39; environent.
 
 ## Installation
 
 ```sh
-npm install electron-dev-mode --save
+npm install electron-env --save
 ```
 
 ## Usage
 
 ```js
-const env = require("electron-dev-mode")
+const env = require("electron-env")
 
 env.development
 // returns `true` if path contains /electron-prebuilt/
