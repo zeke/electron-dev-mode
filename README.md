@@ -2,6 +2,8 @@
 
 A little electron helper for differentiating the development environment from the &#39;release&#39; environent.
 
+**This was an experiment and is no longer maintained. See https://github.com/sindresorhus/electron-is-dev**
+
 ## Installation
 
 ```sh
